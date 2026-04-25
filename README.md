@@ -89,14 +89,10 @@ This will speed up and structure our learning process.
 
 ## 📁 Repository Structure
 
-```id="z4t6d2"
-wrapper/
-├── Project00_led_shift/
-│   ├── src/           # Verilog sources
-│   ├── constraints/   # Pin mappings (.cst)
-│   └── gowin/         # Project file(s)
-└── README.md
 ```
+wrapper/
+├── Project00_led_shift/ (contraints, gowin project file, verilog source)
+└── README.md
 
 ---
 
