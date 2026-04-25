@@ -91,8 +91,9 @@ This will speed up and structure our learning process.
 
 ```
 wrapper/
-├── Project00_led_shift/ (contraints, gowin project file, verilog source)
+├── Project00_led_shift/ (contraints, gowin project file,)
 └── README.md
+```
 
 ---
 
