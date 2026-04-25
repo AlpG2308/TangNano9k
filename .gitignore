@@ -1,0 +1,26 @@
+# Gowin build artifacts
+impl/
+output/
+*.fs
+*.jed
+*.bit
+*.bin
+
+# Logs / reports
+*.log
+*.rpt
+*.html
+
+# Cache / temp
+.gowin/
+cache/
+tmp/
+*.bak
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
